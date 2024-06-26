@@ -4,3 +4,4 @@
 4. **Análisis estadístico**:  Analizar el comportamiento de los clientes y determinar qué tarifa de prepago genera más ingresos para el operador de telecomunicaciones Megaline.
 5. **API**: Factores que influyen en el precio de un vehículo
 6. **Análisis de datos**: Identificar patrones que determinen si un juego de video tiene éxito o no
+7. **SQL**: Estudiarás una base de datos, analizarás los datos de los competidores y probarás una hipótesis sobre el impacto del clima en la frecuencia de los viajes

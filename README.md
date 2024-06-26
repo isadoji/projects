@@ -2,4 +2,5 @@
 2. **Python básico (2)**: Compararás las preferencias musicales de las ciudades de Springfield y Shelbyville
 3. **Manipulación de datos**: Limpieza de los datos y preparar un informe que brinde información sobre los hábitos de compra de los clientes de Instacart.
 4. **Análisis estadístico**:  Analizar el comportamiento de los clientes y determinar qué tarifa de prepago genera más ingresos para el operador de telecomunicaciones Megaline.
-5. **Análisis de datos**: Identificar patrones que determinen si un juego de video tiene éxito o no
+5. **API**: Factores que influyen en el precio de un vehículo
+6. **Análisis de datos**: Identificar patrones que determinen si un juego de video tiene éxito o no

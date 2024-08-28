@@ -7,3 +7,4 @@
 7. **SQL**: Estudiarás una base de datos, analizarás los datos de los competidores y probarás una hipótesis sobre el impacto del clima en la frecuencia de los viajes
 8. **Machine Learning**: Analizar el comportamiento de los clientes y recomendar uno de los nuevos planes de Megaline
 9. **Aprendizaje supervisado**: Predecir la probabilidad de que un cliente deje de ser cliente
+10. **Aprendizaje automático**: E  ncontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo 

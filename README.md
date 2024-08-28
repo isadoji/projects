@@ -6,3 +6,4 @@
 6. **Análisis de datos**: Identificar patrones que determinen si un juego de video tiene éxito o no
 7. **SQL**: Estudiarás una base de datos, analizarás los datos de los competidores y probarás una hipótesis sobre el impacto del clima en la frecuencia de los viajes
 8. **Machine Learning**: Analizar el comportamiento de los clientes y recomendar uno de los nuevos planes de Megaline
+9. **Aprendizaje supervisado**: Predecir la probabilidad de que un cliente deje de ser cliente

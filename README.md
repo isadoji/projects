@@ -3,7 +3,7 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 
 | Topic | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| Python basic | [Electronic store](https://github.com/isadoji/projects/1) | Understand customer behavior and make data-driven decisions to improve their online experience. | *python* |
+| Python basic | [Electronic store](https://github.com/isadoji/projects/tree/main/1) | Understand customer behavior and make data-driven decisions to improve their online experience. | *python* |
 | Data preprocessing | [Musical preferences](https://github.com/isadoji/projects/2) | Compare the musical preferences of the cities of Springfield and Shelbyville. | *pandas* |
 | Data Wrangling | [Grocery delivery platform](https://github.com/isadoji/projects/3) | Clean the data and prepare a report that provides insights into the purchasing habits of Instacart customers. | *pandas* *numpy* *matplot* |
 

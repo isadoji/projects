@@ -12,28 +12,5 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 |SQL|[Taxi Trips Analysis](https://github.com/isadoji/projects/tree/main/7)|find patterns to understand user preferences and the impact of external factors on taxi trips.|*SQL*|
 |Machine Learning Introduction|[Telephonic Plan Recommendation](https://github.com/isadoji/projects/tree/main/8)|Machine learning model analysis, based on the behavior of current customers, to recommend telephone plans to new customers.|*GridSearchCV, scikit-learn*|
 |Supervised Machine Learning|[Bank Customers Loyalty](https://github.com/isadoji/projects/tree/main/9)|Machine learning classification model, based on the behavior of current customers, to predict their future banks decisions.|*GridSearchCV, scikit-learn*|
-|**:star:Project**|[Oil Extraction Analysis](https://github.com/isadoji/projects/tree/main/10)|Machine Learning model to predict the amount of oil extracted.|*pandas, matplotlib, scipy, numpy, GridSearchCV, scikit-learn *|
-
-
-
-
-
-| Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
-
-
-|[Exploratory Data Analysis](https://github.com/isadoji/proyectos/tree/main/5) |Vehicle Price Analysis| Analysis to determine what factors influence the price of a vehicle and how much they influence.|*pandas, numpy, matplot, fix duplicate, missing and outlier values, wrong data types, classify data, dictionary*|
-
-|Statistical Data Analysis|Phone Plan Analysis| Analyze the behavior of customers with different phone plans to find out which prepaid rate generates more revenue and adjust the advertising budget.|*pandas, numpy, matplot, scipy, hypothesis test, multiple data sets*|
-
-
-
-
-|ML in business|ML Model: Oil region profit and risk prediction|Develop a machine learning model to predict the volume of reserves of new wells and choose the region with the highest benefit and lowest risk.|*pandas, numpy, statistics, matplotlib, sklearn*|
-
-|Linear Algebra|Insurance company data analysis and masking|Analyze data to find similar customers and predict whether a customer will use insurance benefits and how many they will use. Furthermore, mask or obfuscate customer data without affecting the quality of the machine learning models.|*pandas, numpy, math, seaborn, sklearn*|
-|Numerical Methods|Vehicle Price Machine Learning Model|Machine learning model that determines the market value of a vehicle taking into account the training time and the speed and quality of the prediction.|*pandas, numpy, time, matplotlib, seaborn, sklearn, catboost, lightgbm, xgboost*|
-|Temporal Series|Taxi Orders Machine Learning Model|Machine learning model that predicts taxi orders at a certain time at an airport.|*pandas, numpy, matplotlib, statsmodels, sklearn, catboost, lightgbm*|
-|Machine learning for text|[ML Model: Classify Movie Reviews]|Machine learning model to classify movie reviews as positive or negative.|*pandas, numpy, math, re, nltk, matplotlib, seaborn, tqdm, spacy, sklearn, lightgbm*|
-|Artificial Vision|[ML Model: Artificial Vision to Determine Age]|Using artificial vision, determine the age of a person from an image. To do this, a model is built and evaluated to verify the age of people.|*pandas, numpy, matplotlib, tensorflow*|
-|**:star: Final Project**|[ML Model: Predict service cancellation]|Develop a machine learning model that predicts whether a person is likely to cancel a service to offer them promotions and/or special plans.|*pandas, matplotlib, seaborn, sklearn, catboost, lightgbm*|
+|**:star:Project**|[Oil Extraction Analysis](https://github.com/isadoji/projects/tree/main/10)|Machine Learning model to predict the amount of oil extracted.|*pandas, matplotlib, scipy, numpy, GridSearchCV, scikit-learn*|
 

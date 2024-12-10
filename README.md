@@ -1,6 +1,11 @@
 # TripleTen LatAm projects
 Data Preprocessing, data analysis statistical analysis and machine learning models.
 
+| Project name | Description | Libraries used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Real Estate Analysis](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
+
+| Topic    | Project  | Description  Highlights & Libraries |
 
 |--------------------- |--------------------- |------------------------------------------------------------------------------------------- |------------------------------ |
 

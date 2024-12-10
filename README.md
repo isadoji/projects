@@ -13,4 +13,6 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 |Machine Learning Introduction|[Telephonic Plan Recommendation](https://github.com/isadoji/projects/tree/main/8)|Machine learning model analysis, based on the behavior of current customers, to recommend telephone plans to new customers.|*GridSearchCV, scikit-learn*|
 |Supervised Machine Learning|[Bank Customers Loyalty](https://github.com/isadoji/projects/tree/main/9)|Machine learning classification model, based on the behavior of current customers, to predict their future banks decisions.|*GridSearchCV, scikit-learn*|
 |**:star:Project**|[Oil Extraction Analysis](https://github.com/isadoji/projects/tree/main/10)|Machine Learning model to predict the amount of oil extracted.|*pandas, matplotlib, scipy, numpy, GridSearchCV, scikit-learn*|
+|Linear Algebra|[Insurance company data analysis and masking](https://github.com/isadoji/projects/tree/main/11)|Predict whether a customer will use insurance benefits by masking and obfuscating customer data without affecting model predictions.|*math, seaborn, scikit-learn*|
 
+Data obfuscation

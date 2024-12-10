@@ -10,7 +10,7 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 | Virtual Environment | [Vehicle Price](https://github.com/isadoji/projects/tree/main/5) | Determine the factors that influence the price of a vehicle|*plotly, streamlit* |
 |**:star:Project**|[Videogames Analysis](https://github.com/isadoji/projects/tree/main/6)|Identification of video game sales patterns.|*pandas, matplotlib, scipy, numpy*|
 |SQL|[Taxi Trips Analysis](https://github.com/isadoji/projects/tree/main/7)|find patterns to understand user preferences and the impact of external factors on taxi trips.|*SQL*|
-|Machine Learning Introduction|[Telephonic Plan Recommendation](https://github.com/isadoji/projects/tree/main/8)|Machine learning model analysis, based on the behavior of current customers, to recommend telephone plans to new customers.|*pandas, GridSearchCV, sklearn,  Machine Learning*|
+|Machine Learning Introduction|[Telephonic Plan Recommendation](https://github.com/isadoji/projects/tree/main/8)|Machine learning model analysis, based on the behavior of current customers, to recommend telephone plans to new customers.|*GridSearchCV, scikit-learn*|
 
 | Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
 

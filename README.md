@@ -2,8 +2,8 @@
 Data Preprocessing, data analysis statistical analysis and machine learning models.
 
 
-|Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
-| Python basics | Electronic store | Understand customer behavior and make data-driven decisions to improve their online experience | *python* |
+| Topic                                | Project                     | Description  Highlights & Libraries |
+|:--------------------- |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
 
 |[Exploratory Data Analysis](https://github.com/isadoji/proyectos/tree/main/5) |Vehicle Price Analysis| Analysis to determine what factors influence the price of a vehicle and how much they influence.|*pandas, numpy, matplot, fix duplicate, missing and outlier values, wrong data types, classify data, dictionary*|
 |Statistical Data Analysis|Phone Plan Analysis| Analyze the behavior of customers with different phone plans to find out which prepaid rate generates more revenue and adjust the advertising budget.|*pandas, numpy, matplot, scipy, hypothesis test, multiple data sets*|

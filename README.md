@@ -3,7 +3,8 @@ Data Preprocessing, data analysis statistical analysis and machine learning mode
 
 | Topic | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| Python basic | [Electronic store](https://github.com/isadoji/proyectos) | Understand customer behavior and make data-driven decisions to improve their online experience. | *python* |
+| Python basic | [Electronic store](https://github.com/isadoji/proyectos/1) | Understand customer behavior and make data-driven decisions to improve their online experience. | *python* |
+| data processing | [Musical preferences](https://github.com/isadoji/proyectos/2) | Compare the musical preferences of the cities of Springfield and Shelbyville. | *pandas* |
 
 | Topic    | Project  | Description  Highlights & Libraries |
 

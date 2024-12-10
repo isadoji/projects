@@ -3,7 +3,7 @@ Data Preprocessing, data analysis statistical analysis and machine learning mode
 
 | Topic | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| Python basic | [Electronic store](https://github.com/isadoji/proyectos) | Understand customer behavior and make data-driven decisions to improve their online experience. | *python** |
+| Python basic | [Electronic store](https://github.com/isadoji/proyectos) | Understand customer behavior and make data-driven decisions to improve their online experience. | *python* |
 
 | Topic    | Project  | Description  Highlights & Libraries |
 

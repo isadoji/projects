@@ -8,7 +8,7 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 | Data Wrangling | [Grocery delivery platform](https://github.com/isadoji/projects/tree/main/3) | Clean the data and prepare a report that provides insights into the purchasing habits of Instacart customers. | *pandas* *numpy* *matplot* |
 | Descriptive Statistics| [Telecommunications Operator](https://github.com/isadoji/projects/tree/main/4) | Analyze customer behavior and determine which prepaid rate generates the most revenue. |*seaborn* *scipy*|
 | Virtual Environment | [Vehicle Price](https://github.com/isadoji/projects/tree/main/5) | Determine the factors that influence the price of a vehicle|*plotly* *streamlit* |
-|**:star:Project**|[Videogames Analysis](https://github.com/isadoji/projects/tree/main/6)|Identify patterns that determine if a game is successful or not in order to have an efficient planning of advertising campaigns and analyze the success of games by region.|*pandas* *matplotlib* *scipy* *numpy* *hypothesis test*|
+|**:star:Project**|[Videogames Analysis](https://github.com/isadoji/projects/tree/main/6)|Identification of video game sales patterns.|*pandas* *matplotlib* *scipy* *numpy* *hypothesis test*|
 
 
 

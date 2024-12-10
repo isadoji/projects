@@ -12,6 +12,11 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 |SQL|[Taxi Trips Analysis](https://github.com/isadoji/projects/tree/main/7)|find patterns to understand user preferences and the impact of external factors on taxi trips.|*SQL*|
 |Machine Learning Introduction|[Telephonic Plan Recommendation](https://github.com/isadoji/projects/tree/main/8)|Machine learning model analysis, based on the behavior of current customers, to recommend telephone plans to new customers.|*GridSearchCV, scikit-learn*|
 |Supervised Machine Learning|[Bank Customers Loyalty](https://github.com/isadoji/projects/tree/main/9)|Machine learning classification model, based on the behavior of current customers, to predict their future banks decisions.|*GridSearchCV, scikit-learn*|
+|**:star:Project**|[Oil Extraction Analysis](https://github.com/isadoji/projects/tree/main/10)|Machine Learning model to predict the amount of oil extracted.|*pandas, matplotlib, scipy, numpy, GridSearchCV, scikit-learn *|
+
+
+
+
 
 | Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
 
@@ -24,7 +29,7 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 
 
 |ML in business|ML Model: Oil region profit and risk prediction|Develop a machine learning model to predict the volume of reserves of new wells and choose the region with the highest benefit and lowest risk.|*pandas, numpy, statistics, matplotlib, sklearn*|
-|**:star:Project**|Oil Extraction Analysis|Create a Machine Learning model to predict the amount of gold mined, optimize production, and remove unprofitable parameters.|*pandas, matplotlib, numpy, sklearn*|
+
 |Linear Algebra|Insurance company data analysis and masking|Analyze data to find similar customers and predict whether a customer will use insurance benefits and how many they will use. Furthermore, mask or obfuscate customer data without affecting the quality of the machine learning models.|*pandas, numpy, math, seaborn, sklearn*|
 |Numerical Methods|Vehicle Price Machine Learning Model|Machine learning model that determines the market value of a vehicle taking into account the training time and the speed and quality of the prediction.|*pandas, numpy, time, matplotlib, seaborn, sklearn, catboost, lightgbm, xgboost*|
 |Temporal Series|Taxi Orders Machine Learning Model|Machine learning model that predicts taxi orders at a certain time at an airport.|*pandas, numpy, matplotlib, statsmodels, sklearn, catboost, lightgbm*|

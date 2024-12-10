@@ -1,17 +1,15 @@
 # TripleTen LatAm projects
-Data Preprocessing, data analysis statistical analysis and machine learning models.
+Data Preprocessing, data analysis, statistical analysis, and machine learning models.
 
 | Topic | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | Python basic | [Electronic store](https://github.com/isadoji/proyectos/1) | Understand customer behavior and make data-driven decisions to improve their online experience. | *python* |
-| data processing | [Musical preferences](https://github.com/isadoji/proyectos/2) | Compare the musical preferences of the cities of Springfield and Shelbyville. | *pandas* |
+| Data preprocessing | [Musical preferences](https://github.com/isadoji/proyectos/2) | Compare the musical preferences of the cities of Springfield and Shelbyville. | *pandas* |
+| Data Wrangling | [Grocery delivery platform](https://github.com/isadoji/proyectos/3) | Clean the data and prepare a report that provides insights into the purchasing habits of Instacart customers. | *pandas* *numpy* *matplot* |
 
-| Topic    | Project  | Description  Highlights & Libraries |
 
-|--------------------- |--------------------- |------------------------------------------------------------------------------------------- |------------------------------ |
 
-|:--------------------- |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
+| Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
 |  |  | Understand customer behavior and make data-driven decisions to improve their online experience | *python* |
 
 |[Exploratory Data Analysis](https://github.com/isadoji/proyectos/tree/main/5) |Vehicle Price Analysis| Analysis to determine what factors influence the price of a vehicle and how much they influence.|*pandas, numpy, matplot, fix duplicate, missing and outlier values, wrong data types, classify data, dictionary*|

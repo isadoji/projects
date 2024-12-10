@@ -1,0 +1,1 @@
+Identificar patrones que determinen si un videojuego tiene éxito o no utilizando datos 2016 para planear una campaña de ventas para el 2017

@@ -7,15 +7,18 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 | Data preprocessing | [Musical preferences](https://github.com/isadoji/projects/tree/main/2) | Compare the musical preferences of the cities of Springfield and Shelbyville. | *pandas* |
 | Data Wrangling | [Grocery delivery platform](https://github.com/isadoji/projects/tree/main/3) | Clean the data and prepare a report that provides insights into the purchasing habits of Instacart customers. | *pandas* *numpy* *matplot* |
 | Descriptive Statistics| [Telecommunications Operator](https://github.com/isadoji/projects/tree/main/4) | Analyze customer behavior and determine which prepaid rate generates the most revenue. |*seaborn* *scipy*|
+| Virtual Environment | [Vehicle Price](https://github.com/isadoji/projects/tree/main/5) | Determine the factors that influence the price of a vehicle|*streamlit*|
 
 
 
 | Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
-|  |  | Understand customer behavior and make data-driven decisions to improve their online experience | *python* |
+
 
 |[Exploratory Data Analysis](https://github.com/isadoji/proyectos/tree/main/5) |Vehicle Price Analysis| Analysis to determine what factors influence the price of a vehicle and how much they influence.|*pandas, numpy, matplot, fix duplicate, missing and outlier values, wrong data types, classify data, dictionary*|
 |Statistical Data Analysis|Phone Plan Analysis| Analyze the behavior of customers with different phone plans to find out which prepaid rate generates more revenue and adjust the advertising budget.|*pandas, numpy, matplot, scipy, hypothesis test, multiple data sets*|
-|**:star:Project|Videogames Analysis|Identify patterns that determine if a game is successful or not in order to have an efficient planning of advertising campaigns and analyze the success of games by region.|*pandas, matplotlib, scipy, numpy, hypothesis test*|
+|
+**:star:Project|Videogames Analysis|Identify patterns that determine if a game is successful or not in order to have an efficient planning of advertising campaigns and analyze the success of games by region.|*pandas, matplotlib, scipy, numpy, hypothesis test*|
+
 |Collect and Store Data with SQL|Chicago Taxi Trips Analysis|Analyze the behavior of Taxi passengers in Chicago city and explore the impact of external factors, such as weather, in the rides.|*pandas, SQL, matplotlib, seaborn, scipy*|
 |Machine Learning|ML Model: Telephonic Plan Recommendation|Develop a machine learning model based on the behavior of current customers, to recommend telephone plans to new customers.|*pandas, GridSearchCV, sklearn,  Machine Learning*|
 |ML Supervised Learning|ML Model: Predict bank customers loyalty|Develop a machine learning classification model, based on the behavior of current customers, to predict if they will stay or stop using the bank services soon.|*pandas, GridSearchCV, sklearn,  Machine Learning*|

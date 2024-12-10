@@ -16,3 +16,4 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 |Linear Algebra|[Insurance company data analysis and masking](https://github.com/isadoji/projects/tree/main/11)|Predict whether a customer will use insurance benefits by masking and obfuscating customer data without affecting model predictions.|*math, seaborn, scikit-learn*|
 |Numerical Methods|[Vehicle Price](https://github.com/isadoji/projects/tree/main/12)|Vehicle price prediction with ML models.|*time, scikit-learn, catboost, lightgbm*|
 |Temporal Series| [Taxi Orders](https://github.com/isadoji/projects/tree/main/13)|Taxi orders with ML models.|*statsmodels, scikit-leart, catboost, lightgbm*|
+|Machine learning for text|[Movie Reviews](https://github.com/isadoji/projects/tree/main/14)|Classify movie reviews with ML models.|*tqmd, nltk, tf-idf, bert, spacy, torch, transformers*|

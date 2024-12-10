@@ -9,16 +9,17 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 | Descriptive Statistics| [Telecommunications Operator](https://github.com/isadoji/projects/tree/main/4) | Analyze customer behavior and determine which prepaid rate generates the most revenue. |*seaborn, scipy*|
 | Virtual Environment | [Vehicle Price](https://github.com/isadoji/projects/tree/main/5) | Determine the factors that influence the price of a vehicle|*plotly, streamlit* |
 |**:star:Project**|[Videogames Analysis](https://github.com/isadoji/projects/tree/main/6)|Identification of video game sales patterns.|*pandas, matplotlib, scipy, numpy, hypothesis test*|
-
+|SQL|[Taxi Trips Analysis](https://github.com/isadoji/projects/tree/main/7)|find patterns to understand user preferences and the impact of external factors on taxi trips.|*pandas, SQL, matplotlib, seaborn, scipy*|
 
 
 | Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
 
 
 |[Exploratory Data Analysis](https://github.com/isadoji/proyectos/tree/main/5) |Vehicle Price Analysis| Analysis to determine what factors influence the price of a vehicle and how much they influence.|*pandas, numpy, matplot, fix duplicate, missing and outlier values, wrong data types, classify data, dictionary*|
+
 |Statistical Data Analysis|Phone Plan Analysis| Analyze the behavior of customers with different phone plans to find out which prepaid rate generates more revenue and adjust the advertising budget.|*pandas, numpy, matplot, scipy, hypothesis test, multiple data sets*|
 
-|Collect and Store Data with SQL|Chicago Taxi Trips Analysis|Analyze the behavior of Taxi passengers in Chicago city and explore the impact of external factors, such as weather, in the rides.|*pandas, SQL, matplotlib, seaborn, scipy*|
+
 |Machine Learning|ML Model: Telephonic Plan Recommendation|Develop a machine learning model based on the behavior of current customers, to recommend telephone plans to new customers.|*pandas, GridSearchCV, sklearn,  Machine Learning*|
 |ML Supervised Learning|ML Model: Predict bank customers loyalty|Develop a machine learning classification model, based on the behavior of current customers, to predict if they will stay or stop using the bank services soon.|*pandas, GridSearchCV, sklearn,  Machine Learning*|
 |ML in business|ML Model: Oil region profit and risk prediction|Develop a machine learning model to predict the volume of reserves of new wells and choose the region with the highest benefit and lowest risk.|*pandas, numpy, statistics, matplotlib, sklearn*|

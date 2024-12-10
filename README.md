@@ -2,8 +2,11 @@
 Data Preprocessing, data analysis statistical analysis and machine learning models.
 
 
-| Topic                                | Project                     | Description  Highlights & Libraries |
+|--------------------- |--------------------- |------------------------------------------------------------------------------------------- |------------------------------ |
+
 |:--------------------- |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
+|Data Preprocessing |Borrowers’ risk Analysis| Analysis of the important characteristics to take into account when creating a credit score for a potential client.|*pandas, duplicate and missing data, wrong data types, classifying data*|
+| Python basics | Electronic store | Understand customer behavior and make data-driven decisions to improve their online experience | *python* |
 
 |[Exploratory Data Analysis](https://github.com/isadoji/proyectos/tree/main/5) |Vehicle Price Analysis| Analysis to determine what factors influence the price of a vehicle and how much they influence.|*pandas, numpy, matplot, fix duplicate, missing and outlier values, wrong data types, classify data, dictionary*|
 |Statistical Data Analysis|Phone Plan Analysis| Analyze the behavior of customers with different phone plans to find out which prepaid rate generates more revenue and adjust the advertising budget.|*pandas, numpy, matplot, scipy, hypothesis test, multiple data sets*|
@@ -19,3 +22,4 @@ Data Preprocessing, data analysis statistical analysis and machine learning mode
 |Machine learning for text|[ML Model: Classify Movie Reviews]|Machine learning model to classify movie reviews as positive or negative.|*pandas, numpy, math, re, nltk, matplotlib, seaborn, tqdm, spacy, sklearn, lightgbm*|
 |Artificial Vision|[ML Model: Artificial Vision to Determine Age]|Using artificial vision, determine the age of a person from an image. To do this, a model is built and evaluated to verify the age of people.|*pandas, numpy, matplotlib, tensorflow*|
 |**:star: Final Project**|[ML Model: Predict service cancellation]|Develop a machine learning model that predicts whether a person is likely to cancel a service to offer them promotions and/or special plans.|*pandas, matplotlib, seaborn, sklearn, catboost, lightgbm*|
+

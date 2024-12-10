@@ -15,4 +15,3 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 |**:star:Project**|[Oil Extraction Analysis](https://github.com/isadoji/projects/tree/main/10)|Machine Learning model to predict the amount of oil extracted.|*pandas, matplotlib, scipy, numpy, GridSearchCV, scikit-learn*|
 |Linear Algebra|[Insurance company data analysis and masking](https://github.com/isadoji/projects/tree/main/11)|Predict whether a customer will use insurance benefits by masking and obfuscating customer data without affecting model predictions.|*math, seaborn, scikit-learn*|
 
-Data obfuscation

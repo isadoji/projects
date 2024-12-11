@@ -17,3 +17,4 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 |Numerical Methods|[Vehicle Price](https://github.com/isadoji/projects/tree/main/12)|Vehicle price prediction with ML models.|*time, scikit-learn, catboost, lightgbm*|
 |Temporal Series| [Taxi Orders](https://github.com/isadoji/projects/tree/main/13)|Taxi orders with ML models.|*statsmodels, scikit-leart, catboost, lightgbm*|
 |Machine Learning for text|[Movie Reviews](https://github.com/isadoji/projects/tree/main/14)|Classify movie reviews with ML models.|*tqmd, nltk, tf-idf, bert, spacy, torch, transformers*|
+|Artificial Vision|[Age determination](https://github.com/isadoji/projects/tree/main/14)|Image age determination with ML modelos.|*tensorflow*|

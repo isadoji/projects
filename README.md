@@ -18,3 +18,4 @@ Data Preprocessing, data analysis, statistical analysis, and machine learning mo
 |Temporal Series| [Taxi Orders](https://github.com/isadoji/projects/tree/main/13)|Taxi orders with ML models.|*statsmodels, scikit-leart, catboost, lightgbm*|
 |Machine Learning for text|[Movie Reviews](https://github.com/isadoji/projects/tree/main/14)|Classify movie reviews with ML models.|*tqmd, nltk, tf-idf, bert, spacy, torch, transformers*|
 |Artificial Vision|[Age determination](https://github.com/isadoji/projects/tree/main/15)|Image age determination with ML modelos.|*tensorflow*|
+|**:star: Final Project**|[Telecom](https://github.com/isadoji/projects/tree/main/16)|Machine learning model for forecast cancellation rate.|*pandas, matplotlib, seaborn, scikit-learn, catboost, lightgbm*|
